@@ -37,3 +37,9 @@ description: 'Frequently Asked Questions about the mod.'
 **Q**: Is the game limited to 90fps?
 
 **A**: No, use the `/com_maxfps <value>` command ingame to change it to whatever you want.
+
+---
+
+**Q**: How do I fix the "Create2DTexture" error on startup?
+
+**A**: You need to cancel the "shader cache population" at startup, then disable shader caching in the game's graphics settings.
