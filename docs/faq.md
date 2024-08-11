@@ -6,7 +6,7 @@ description: 'Frequently Asked Questions about the mod.'
 
 **Q**: When is the mod planned to be released?
 
-**A**: August 16th.
+**A**: August 16th. A time has not yet been announced.
 
 ---
 
@@ -30,7 +30,7 @@ description: 'Frequently Asked Questions about the mod.'
 
 **Q**: Will there be matchmaking?
 
-**A**: No, there will be a server browser.
+**A**: No, there will be a server browser. It is expected that players will be able to host or rent their own server.
 
 ---
 
