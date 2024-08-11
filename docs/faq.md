@@ -40,6 +40,12 @@ description: 'Frequently Asked Questions about the mod.'
 
 ---
 
-**Q**: How do I fix the "Create2DTexture" error on startup?
+**Q**: How do I fix the "Create2DTexture" or "Out Of Memory" error on startup?
 
 **A**: You need to cancel the "shader cache population" at startup, then disable shader caching in the game's graphics settings.
+
+---
+
+**Q**: Will this mod work with the Steam Deck?
+
+**A**: If your Steam Deck can run Modern Warfare Remastered multiplayer, then it should work.
